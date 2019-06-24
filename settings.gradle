@@ -3,4 +3,6 @@ include 'common-error'
 include 'common-error:no-log4j-xml'
 include 'common-error:no-slf4j-impl'
 include 'common-error:multi-slf4j-impl'
+include 'common-error:slf4j-log4j-loop'
+include 'common-error:slf4j-log4j2-loop'
 

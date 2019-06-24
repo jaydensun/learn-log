@@ -1,0 +1,4 @@
+dependencies {
+    compile "org.apache.logging.log4j:log4j-slf4j-impl:${log4jSlf4jImplVersion}"
+    compile "org.apache.logging.log4j:log4j-to-slf4j:${log4jSlf4jImplVersion}"
+}
