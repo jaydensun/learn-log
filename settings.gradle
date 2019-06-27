@@ -14,4 +14,5 @@ include 'logback:xml'
 include 'log4j2:no-impl'
 include 'log4j2:core-impl-no-xml'
 include 'log4j2:core-impl-xml'
+include 'log4j2:all-log4j2'
 
